@@ -31,7 +31,8 @@
 # /client/.env
 
 # # # server dependencies
- /server/node_modules
+/server/node_modules
+# # /server/node_modules
 # # /.gitignore
 # # /.vscode/settings.json
-# # /server/.env
+/server/.env
