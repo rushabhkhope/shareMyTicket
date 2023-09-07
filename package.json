@@ -1,0 +1,19 @@
+{
+  "name": "sharemyticket",
+  "version": "1.0.0",
+  "description": "mern app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushabhkhope/shareMyTicket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushabhkhope/shareMyTicket/issues"
+  },
+  "homepage": "https://github.com/rushabhkhope/shareMyTicket#readme"
+}
