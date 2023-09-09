@@ -8,6 +8,7 @@
     "start": "cd client && npm run client ",
     "startServer":" cd server && npm run server",
     "buildClient": "cd client && npm run build"
+    
 
   },
   "repository": {
