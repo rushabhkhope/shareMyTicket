@@ -1,0 +1,8 @@
+build project:
+  image: node:16.15.1
+  script:
+    - cd client
+    - npm run install
+    - npm run test
+
+  
